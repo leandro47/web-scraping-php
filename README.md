@@ -7,8 +7,12 @@
 
 ## Usage/Examples
 
+Run this command:
 ```bash
-$ php 13-persiste_dados.php 
+php 13-persiste_dados.php 
+```
+output:
+```bash
 Array
 (
     [0] => Array
@@ -46,4 +50,7 @@ Array
 )
 ```
 
-  
+## License
+
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
