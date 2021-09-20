@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '9ba38cb3932f62afaf9613e83b7c374e235cfe73',
+    'reference' => '9ec15dd63d3db6eef1ef848fab211c7804d304ac',
     'name' => '__root__',
   ),
   'versions' => 
@@ -41,7 +41,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '9ba38cb3932f62afaf9613e83b7c374e235cfe73',
+      'reference' => '9ec15dd63d3db6eef1ef848fab211c7804d304ac',
     ),
     'php-http/async-client-implementation' => 
     array (
@@ -90,6 +90,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'c1e3f64fcc631c96e2c5843b666db66679ced11c',
+    ),
+    'symfony/css-selector' => 
+    array (
+      'pretty_version' => 'v5.3.4',
+      'version' => '5.3.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7fb120adc7f600a59027775b224c13a33530dd90',
     ),
     'symfony/deprecation-contracts' => 
     array (
